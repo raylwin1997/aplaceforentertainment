@@ -1,0 +1,9 @@
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+MySQL-python==1.2.5
+pyenchant==1.6.7
+PyX==0.12.1
+Werkzeug==0.14.1
