@@ -1,4 +1,4 @@
-# bandify
+# Entertainment place
 A place for ppl to share in the spirit of entertainment.  Dunno, thought we could try something out in this direction. 
 
 Nothing as of yet...
